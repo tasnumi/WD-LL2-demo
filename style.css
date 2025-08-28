@@ -2,3 +2,19 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.navbar {
+  background-color: #01796F;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  color: white;
+  gap: 1.5rem;
+}
